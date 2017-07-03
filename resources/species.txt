@@ -1,7 +1,7 @@
-Navigation Links : 
-- Text : "Home",         href: "index.html" 
-- Text : "Bear Species", href: "species.html" 
-- Text : "Bear Stats",   href: "stats.html" 
+Navigation Links :
+- Text : "Home",         href: "index.html"
+- Text : "Bear Species", href: "species.html"
+- Text : "Bear Stats",   href: "stats.html"
 
 Bears
 
@@ -27,7 +27,7 @@ Polar Bear
 
 Image source: "https://placebear.com/g/200/150"
 
-Polar bears are among the largest bears in the world. Adult males may reach 800 kilograms (kg) or 1760 pounds (lbs). In Ontario, the largest male bear recorded from “live capture” research studies weighed 654 kg (1439 lbs). The average weight of male polar bears in Ontario is about 500 kg (1100 lbs). Adult female bears are smaller and average around 300 kg (660 lbs); their peak weights do not usually exceed 400 kg (880 lbs)</p>
+Polar bears are among the largest bears in the world. Adult males may reach 800 kilograms (kg) or 1760 pounds (lbs). In Ontario, the largest male bear recorded from “live capture” research studies weighed 654 kg (1439 lbs). The average weight of male polar bears in Ontario is about 500 kg (1100 lbs). Adult female bears are smaller and average around 300 kg (660 lbs); their peak weights do not usually exceed 400 kg (880 lbs)
 
 Panda Bear
 
